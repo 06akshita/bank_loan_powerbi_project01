@@ -54,7 +54,7 @@
 
     3️⃣ Loan Default & Overview
     This dashboard provides a high-level overview of loan purposes, default rates, and borrower profiles.
-
+    
       Key Insights: https://github.com/06akshita/bank_loan_powerbi_project01/blob/main/loan_default_%26_overview.png
         1.Home loans contribute the highest loan volume.
         2.Full-time employees earn the highest average income.
