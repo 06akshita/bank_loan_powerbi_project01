@@ -21,9 +21,9 @@
   5.Data Visualization
 
   📊 Dashboard Sections
-    1️⃣ Applicants Demographics & Financials Profile:
+  1️⃣ Applicants Demographics & Financials Profile: 
     This dashboard focuses on borrower demographics and financial characteristics.
-      Key Insights:
+      Key Insights: https://github.com/06akshita/bank_loan_powerbi_project01/blob/main/applications_demographics_%26_financials_profile.png
        1.Median loan amount varies across credit score categories.
        2.Adults receive the highest average loan amounts.
        3.Bachelor's degree holders account for the highest number of loans.
