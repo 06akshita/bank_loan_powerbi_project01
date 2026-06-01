@@ -40,7 +40,7 @@
     2️⃣ Financial Risk Matrix
     This section analyzes financial risk indicators and loan trends over time.
 
-      Key Insights: https://github.com/06akshita/bank_loan_powerbi_project01/blob/main/financial_risk_matrix.png
+      Key Insights: (https://github.com/06akshita/bank_loan_powerbi_project01/blob/main/financial_risk_matrix.png)
         1.Year-over-Year (YOY) loan amount fluctuations reveal changing lending behavior.
         2.Default loan trends show periods of increasing financial risk.
         3.Employment type and income bracket strongly influence total loan amounts.
