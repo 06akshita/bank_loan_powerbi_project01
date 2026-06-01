@@ -80,7 +80,7 @@
 
         ✅ Interactive dashboards
         ✅ Advanced DAX calculations
-        ✅ Trend analysis
+        ✅ Trend analysis 
         ✅ Demographic segmentation
         ✅ Financial risk evaluation
         ✅ Loan default monitoring
